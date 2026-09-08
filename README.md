@@ -9,8 +9,12 @@
 - **University:** University of Central Missouri
 
 ---
-
 ## Files
+
+```text
+Homework 1.docx
+Homework 1.ipynb
+README.md
 
 - `Homework 1.ipynb` — Contains the Python programming code, execution results, and written explanations.
 - `Homework 1.docx` — Contains screenshots of the short-answer and programming questions.
